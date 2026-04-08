@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Hamdan-Saddique-ai/Hamdan-Saddique-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hamdan Saddique  
 
-Here are some ideas to get you started:
+💻 Python Developer | 🤖 Machine Learning & NLP Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 About Me
+ 🌱 Currently learning Machine Learning, Deep Learning & NLP  
+ 💡 Interested in building smart AI solutions  
+ 🤝 Open to collaboration on AI & Python projects  
+ 📚 Always learning new technologies  
+
+ 🛠️ Skills
+ 💻 Python  
+ 📊 Machine Learning  /  Deep Learning
+ 🧠 Natural Language Processing (NLP)  
+ 📈 Data Analysis  
+
+📫 Connect with Me
+ ✉️ Email: hamdan.saddique.ai@gmail.com  
+
+
+⚡ Fun Fact
+I love turning ideas into intelligent systems 🤖
