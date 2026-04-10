@@ -6,7 +6,8 @@
 ---
 
 ### 🚀 About Me
-💻 Python Developer | 🤖 Machine Learning & NLP Enthusiast | html specialist |java | css 
+💻 Python Developer | 🤖 Machine Learning & NLP Enthusiast | html specialist | java | css |
+---
 🌱 Currently learning Machine Learning, Deep Learning & NLP  
 💡 Interested in building smart AI solutions  
 🤝 Open to collaboration on AI & Python projects  
