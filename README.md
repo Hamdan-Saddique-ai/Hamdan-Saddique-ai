@@ -6,13 +6,12 @@
 ---
 
 ### 🚀 About Me
-💻 Python Developer | 🤖 Machine Learning & NLP Enthusiast | html specialist | java | css |
----
-🌱 Currently learning Machine Learning, Deep Learning & NLP  
-💡 Interested in building smart AI solutions  
-🤝 Open to collaboration on AI & Python projects  
-📚 Always learning new technologies  
-⚡ Fun Fact: I love turning ideas into intelligent systems 🤖  
+💻 Passionate about Python Development, AI, and Web Technologies  
+🤖 Exploring Machine Learning, Deep Learning, and NLP  
+🌱 Currently improving my skills in AI projects and real-world applications  
+🤝 Open to collaborations, internships, and exciting tech opportunities   
+📚 Always curious to learn and build something new  
+⚡ Fun fact: I enjoy turning ideas into intelligent systems   
 
 ---
 
@@ -27,6 +26,11 @@
 </p>
 
 ---
+### 🛠️ Tech Stack
+**Programming**: Python, Java, HTML, CSS   
+**AI/ML**: Machine Learning, Deep Learning, NLP    
+**Libraries**: NumPy, Pandas, Scikit-learn, NLTK   
+**Tools**: Git, GitHub, VS Code  
 
 ### 📫 Connect with Me
 ✉️ Email: [hamdan.saddique.ai@gmail.com](mailto:hamdan.saddique.ai@gmail.com)  
@@ -44,11 +48,13 @@
 ---
 
 ### 💡 Fun Projects
-<p align="left">
-- **Chatbot with Python & NLP** – A conversational AI using NLTK & Transformers  
-- **Image Classifier** – Deep learning project with TensorFlow/Keras  
-- **Stock Price Predictor** – ML regression model predicting stock trends  
-</p>
+
+- **Chatbot with Python & NLP**  
+- **Image Classifier using Deep Learning**  
+- **Stock Price Predictor with Machine Learning**  
+- **Spin the Wheel Web App**  
+- **Quran Verse Translator using Python** 
+
 
 ---
 
