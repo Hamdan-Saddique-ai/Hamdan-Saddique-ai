@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/Hamdan-Saddique-ai.png" height="170" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Hamdan+Saddique;Python+Developer+%7C+ML+%26+NLP+Enthusiast" alt="Typing SVG" />
 </p>
@@ -41,9 +43,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamdan-Saddique-ai&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hamdan-Saddique-ai&theme=radical" height="170" />
 </p>
 ---
 
