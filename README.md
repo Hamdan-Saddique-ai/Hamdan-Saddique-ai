@@ -37,7 +37,6 @@
 ### 📫 Connect with Me
 ✉️ Email: [hamdan.saddique.ai@gmail.com](mailto:hamdan.saddique.ai@gmail.com)  
 🔗 LinkedIn: [Your LinkedIn Link](https://www.linkedin.com/)  
-🐦 Twitter: [Your Twitter Link](https://twitter.com/)  
 
 ---
 
