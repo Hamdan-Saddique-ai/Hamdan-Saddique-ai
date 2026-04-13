@@ -54,8 +54,9 @@
 - **Spin the Wheel Web App**  
 - **Quran Verse Translator using Python** 
 
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=ff69b4&center=true&vCenter=true&width=500&lines=Let's+build+intelligent+solutions+together!+🚀" alt="Let's collaborate" />
