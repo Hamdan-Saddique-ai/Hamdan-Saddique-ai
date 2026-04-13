@@ -36,7 +36,7 @@
 
 ### 📫 Connect with Me
 ✉️ Email: [hamdan.saddique.ai@gmail.com](mailto:hamdan.saddique.ai@gmail.com)  
-🔗 LinkedIn: [Your LinkedIn Link]([https://www.linkedin.com/](https://www.linkedin.com/in/hamdan-saddique-ai504b31402/))  
+🔗 LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/hamdan-saddique-ai504b31402/)
 
 ---
 
