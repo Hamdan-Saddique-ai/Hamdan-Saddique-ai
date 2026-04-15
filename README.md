@@ -48,11 +48,12 @@
 
 ### 💡 Fun Projects
 
-- **Chatbot with Python & NLP**  
-- **Image Classifier using Deep Learning**  
-- **Stock Price Predictor with Machine Learning**  
-- **Spin the Wheel Web App**  
-- **Quran Verse Translator using Python** 
+**Smart Hand Tracking System**  
+**Brain Tumor Detection AI**  
+**House Price Prediction**  
+**Noise Reduction System**  
+**Industrial Fault Detection**  
+**Movement Detection System**  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
