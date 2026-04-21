@@ -65,4 +65,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=ff69b4&center=true&vCenter=true&width=500&lines=Let's+build+intelligent+solutions+together!+🚀" alt="Let's collaborate" />
 </p>  
-**`I speak fluent Python and GPU`**
