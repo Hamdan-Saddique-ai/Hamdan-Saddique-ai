@@ -60,6 +60,9 @@
 **Noise Reduction System**  
 **Industrial Fault Detection**  
 **Movement Detection System**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Something+BIG+is+coming...;⚡+Stay+tuned+for+Max+Power+AI;🔥+Next+level+AI+experience+loading..." />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
